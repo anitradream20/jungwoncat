@@ -1,4 +1,4 @@
 # EatKanoRemade
-小游戏：小星一点点
-# 关于朴志晟
-朴志晟(JISUNG)，2002年2月5日出生于韩国首尔，SM娱乐公司旗下男团NCT分队NCT DREAM忙内，官方认证主舞担当，以其令人惊艳的舞蹈实力圈粉无数，请多多关注！代表作《Chewing Gum》《BOOM》《Ridin‘》《Hot Sauce》
+小游戏：点点小符
+# 关于enhypen
+ENHYPEN（非限定团）组合通过韩国cj集团与Big Hit联合打造的大型生存类选秀节目《I-Land》产生，并根据全球观众投票和制作人的选择确定了最终7名出道成员：李羲承、JAY(朴综星)、JAKE(沈载伦)、朴成训、金善禹、梁祯元、NI-KI(西村力)。
